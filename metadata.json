@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Body Control",
+  "description": "AI-powered personalized health and fitness strategist. Track daily nutrition, active refueling, water, steps, workouts, and consult your dedicated fitness Coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
